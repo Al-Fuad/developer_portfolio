@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    height: 64px;
+    border: 0;
+    padding: 18px 35px;
+}
+/* header and navigation styles */
+.header{
+    background: #FFF8F3;
+    background-image: url(/images/header_bg.png), url(/images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+/* banner styles */
+.banner{
+    margin: 0 200px;
+    display: flex;
+    align-items: center;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 85px;
+    margin-bottom: 20px;
+}
+.banner-sub-title{
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+.banner-paragraph{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+/* main */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* about section styles */
+.about{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 131px 156px;
+    text-align: center;
+}
+.section-title{
+    text-align: center;
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.section-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+.about table{
+    margin: 0 auto;
+}
+.about table tr td{
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 50px;
+}
+.heading td{
+    color: #757575;
+}
+.data td{
+    font-weight: 700;
+    color: #474747;
+}
