@@ -166,3 +166,50 @@ main{
     margin-top: 50px;
     text-align: center;
 }
+footer{
+    /* max-width: 1140px; */
+    height: 780px;
+    background: #FFF8F3;
+    margin-top: 113px;
+    display: flex;
+    padding: 130px 230px;
+
+}
+.connect{
+    /* margin-top: 130px; */
+    width: 562px;
+    /* margin-left: 230px; */
+    margin-right: 117px;
+}
+.connect h3{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.connect p{
+    margin-bottom: 30px;
+}
+.connect img{
+    margin: 24px;
+}
+.message{
+    /* margin-top: 130px; */
+    width: 562px;
+    /* margin-right: 230px; */
+}
+.message h3{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 28px;
+}
+.message input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.message input{
+    height: 64px;
+}
