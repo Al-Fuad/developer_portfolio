@@ -103,3 +103,66 @@ main{
     font-weight: 700;
     color: #474747;
 }
+.whatido{
+    margin-bottom: 50px;
+}
+.skills{
+    display: flex;
+}
+.code{
+    width: 268px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin: 0 30px 130px 30px;
+}
+.code img{
+    margin: 30px;
+}
+.code-head{
+    margin-left: 30px;
+    color: #181818;
+    margin-bottom: 20px;
+}
+.code-experience{
+    margin: 0px 30px 30px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+/* Resume */
+.resume{
+    display: flex;
+}
+.sub{
+
+    margin: 113px 24px 0;
+}
+.subtitle{
+    color: #474747;
+    text-align: left;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.degree{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.university{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.des{
+    color: #757575;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.resumebtn{
+    margin-top: 50px;
+    text-align: center;
+}
