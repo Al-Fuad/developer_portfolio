@@ -15,6 +15,19 @@
     border: 0;
     padding: 18px 35px;
 }
+.btn-secondary{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid #FD6E0A;
+    background-color: #FFF8F3;
+    border-radius: 5px;
+    height: 64px;
+    /* border: 0; */
+    padding: 18px 35px;
+    color: #FD6E0A;
+    margin-left: 30px;
+}
 /* header and navigation styles */
 .header{
     background: #FFF8F3;
